@@ -1,5 +1,6 @@
 StringLights
 ============
+
 A small Java Graphical Application that displays multiple strings of color.
 ============
 Click anywhere on the window to produce small bullets of color. Holding down on the mouse will produce more than 1 bullet.
