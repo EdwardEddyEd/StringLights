@@ -34,8 +34,9 @@ import javax.swing.JFrame;
 	 7) Circular Motion around the Center of the Window [DONE]
 	 8) Allow a decrease/increase function to either decrease/increase the length of the trail [DONE]
 	 9) Build Dialogue Header for Motions [DONE]
-	 10) Build Help Box  [DONE]
-	 11) Show to friends [DONE]
+	 10) Build Help Box   [DONE]
+	 11) Show to friends  [DONE]
+	 12) Testing GitHub
 **/
 public class StringLights extends Canvas implements Runnable{
 
